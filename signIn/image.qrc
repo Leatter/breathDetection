@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>C:/Users/Public/Pictures/Sample Pictures/carl-cerstrand-136810-unsplash.jpg</file>
+    </qresource>
+</RCC>
